@@ -19,6 +19,7 @@ Nota: Vai exibir a tabela do histórico de rastreamento apenas se tiver o códig
 * Este plugin é totalmente experimental e pode não funcionar!
 * CASO NÃO FUNCIONAR EU SÓ TENHO A LAMENTAR POR VOCÊ!
 * Qualquer tipo de choro é proibido!
+* Utilize por sua conta e risco!
 
 ## Licença ##
 
