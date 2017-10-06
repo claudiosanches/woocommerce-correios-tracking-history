@@ -1,5 +1,7 @@
 # WooCommerce Correios - Tracking History #
 
+**Este plugin é obsoleto e não deve ser utilizado por ninguém. Esta função já é nativa do WooCommerce Correios.**
+
 Exibe o histórico de entrega do pedido nos correios utilizando o código de rastreamento salvo no WooCommerce Correios.
 
 ![screenshot](http://i.imgur.com/Oy9RGJK.png)
